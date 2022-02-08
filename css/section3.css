@@ -1,0 +1,52 @@
+.ovlr {
+    color : rgb(74, 74, 74);
+    font-size: 40;
+    text-align: center;
+}
+
+.card-body{
+  color:rgb(74, 74, 74);
+}
+
+.poulet {
+  width: 400px;
+}
+
+#img {
+  width: 465px;
+  float: left;
+
+}
+
+.descritionPlat{
+  width: 30px;
+}
+
+#Global {
+  background-color: white;
+}
+
+#Global #gauche {
+  float:left;
+  width:60%;
+}
+#Global #droite {
+  text-align: left;
+  margin-left:40%;
+  width: 450px;
+  height: 450px;
+}
+
+.textemenu {
+  color: black;
+}
+
+hr {
+  text-align: center;
+  size: 3px;
+}
+
+.nomplat {
+  color: rgb(63,63,63);
+  font-size: x-large;
+}

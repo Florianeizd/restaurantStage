@@ -1,0 +1,64 @@
+.navbar {
+    opacity: 0.6;
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.nav-link {
+    font-size: 0.9em;
+    color :rgb(255, 255, 255);
+}
+.titre p{
+    font-family: garamond;
+    color : white;
+    text-align:center;
+    font-size: 4em;
+    margin-top: -116px;
+}
+.texte {
+    color :rgb(255, 255, 255);
+    width: 35em;    /* Bafodé  */
+    max-width: 80%;     /* Bafodé  */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 21px;
+    margin-bottom: 44px;
+    font-size: 15px;
+    line-height: 1.4;
+    letter-spacing: 0px;
+}
+
+div.bordure {
+    border-bottom:1.5px solid rgb(255, 255, 255);
+    font-size:18px;
+    text-align:left;
+    height: 0px;
+    vertical-align:middle;
+}
+.navbar .navbar-nav .nav-link {
+    color: #ffffff;
+    font-size: 1.1em;
+}
+.navbar .navbar-nav .nav-link:hover{
+    color: #ffffff;
+}
+
+.semi-transparent-button {
+  display: block;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 8px;
+  width: 80%;
+  max-width: 200px;
+  background: rgb(255, 255, 255); /* fallback color for old browsers */background: rgba(0, 0, 0, 0.5);
+  border-radius: 8px;
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  letter-spacing: 1px;
+  transition: all 0.3s ease-out;
+}
